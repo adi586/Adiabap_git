@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?> 
-2 <abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0"> 
+2 <Adiabap_git version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0"> 
 3  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0"> 
 4   <asx:values> 
 5    <VSEOCLASS> 
@@ -13,4 +13,4 @@
 13    </VSEOCLASS> 
 14   </asx:values> 
 15  </asx:abap> 
-16 </abapGit> 
+16 </Adiabap_git> 
