@@ -3,7 +3,7 @@
 3  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0"> 
 4   <asx:values> 
 5    <VSEOCLASS> 
-6     <CLSNAME>ZCL_ABAP_FILE_UPLOADER</CLSNAME> 
+6     <CLSNAME>ZCL_ABAP_FILE_UPLOADER_TABLE</CLSNAME> 
 7     <LANGU>E</LANGU> 
 8     <DESCRIPT>ABAP File Uploader</DESCRIPT> 
 9     <STATE>1</STATE> 
