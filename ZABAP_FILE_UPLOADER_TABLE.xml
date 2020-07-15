@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?> 
+2 <abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0"> 
+3  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0"> 
+4   <asx:values> 
+5    <VSEOCLASS> 
+6     <CLSNAME>ZCL_ABAP_FILE_UPLOADER</CLSNAME> 
+7     <LANGU>E</LANGU> 
+8     <DESCRIPT>ABAP File Uploader</DESCRIPT> 
+9     <STATE>1</STATE> 
+10     <CLSCCINCL>X</CLSCCINCL> 
+11     <FIXPT>X</FIXPT> 
+12     <UNICODE>X</UNICODE> 
+13    </VSEOCLASS> 
+14   </asx:values> 
+15  </asx:abap> 
+16 </abapGit> 
